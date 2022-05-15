@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amogh-Nigam
-- 👀 I’m interested in AI & ML, web-D
+- 👀 I’m interested in AI & ML, WebDev
 - 🌱 I’m currently learning ReactJS, Phython and ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
 <!---
