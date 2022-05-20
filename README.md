@@ -3,9 +3,8 @@
 <div align="center">
   <img src = "images/Banner.png" />
 </div>
-<!-- <hr> -->
-<br/>
-##👨🏻‍💻 About Me
+<hr>
+## 👨🏻‍💻 About Me
 <h5>I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.</h5>
 
 - 🔭 I’m currently working on `Something Interesting`.
